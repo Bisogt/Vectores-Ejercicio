@@ -26,10 +26,6 @@ namespace Ejercicio_Matriz
                     Console.WriteLine("Nombre ");
                     for (int f = 0; f < 15; f++)
                         if (contacto != "no")
-
-
-
-
                         {
                             mat[1, 1] = string.Copy(Console.ReadLine());
 
