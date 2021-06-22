@@ -55,6 +55,8 @@ namespace Ejercicio_Matriz
 
                     }
                     Console.WriteLine("-------------------------------------------");
+
+     
                     Console.WriteLine("Mostrar COntacto");
                     for(int x=0; x<15; x++)
                     {
